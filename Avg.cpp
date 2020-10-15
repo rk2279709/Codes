@@ -1,12 +1,11 @@
-#include<iostream>
+#include<bits/stdc++.h>
+
 using namespace std;
-main()
+int main()
 {
     double x,y,z,avg;
     cout<<"Enter x,y, z"<<endl;
         cin>>x>>y>>z;
-
-   avg=(x+y+z)/3;
-   cout<<"Avg = "<<avg;
-
+   cout<<"Avg = "<<(x+y+z)/3;
+  return 0;
 }
