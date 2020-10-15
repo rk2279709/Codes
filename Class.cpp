@@ -1,4 +1,5 @@
-#include<iostream>
+#include<bits/stdc++.h>
+//All in one header file
 using namespace std;
 class Student
 {
